@@ -1,9 +1,3 @@
-# React TypeScript Starter Pack
-
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+# TaskTracker
+The app is made for tracking completed and uncompleted tasks. The project is based on Typescript, React using Hooks, React Router, and URLSearch Params. Styles are made with preprocessor SASS.
+[DEMO LINK](https://vlevik.github.io/task-tracker/#/)
